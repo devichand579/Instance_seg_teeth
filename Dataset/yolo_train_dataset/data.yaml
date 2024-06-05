@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 32
+names: ['11', '12', '13', '14', '15', '16', '17', '18', '21', '22', '23', '24', '25', '26', '27', '28', '31', '32', '33', '34', '35', '36', '37', '38', '41', '42', '43', '44', '45', '46', '47', '48']
+
+roboflow:
+  workspace: teeth-segmentation
+  project: teeth-segmentation-evs6x
+  version: 15
+  license: Private
+  url: https://app.roboflow.com/teeth-segmentation/teeth-segmentation-evs6x/15
