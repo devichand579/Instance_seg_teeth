@@ -5,7 +5,7 @@ This repository contains the implementation and dataset related to the paper [In
 
 ## Dataset
 
-- We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for Detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays.
+- We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays.
 
 
 <table>
@@ -107,9 +107,9 @@ This repository contains the implementation and dataset related to the paper [In
   </tbody>
 </table>
 
-## BB-UNet
-![BB-Unet](./imgs/bb_unet.png)
 
+## Teeth Numbering 
+![Teeth Numbering](./imgs/det_res.png)
 
 
 
