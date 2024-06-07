@@ -1,6 +1,6 @@
 # Instance Segmentation and Teeth Classification in Panoramic X-rays
 
-This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](...), submitted to Expert Systems with Applications Journal.
+This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747), submitted to Expert Systems with Applications Journal.
 
 
 ## Dataset
@@ -201,6 +201,8 @@ This repository contains the implementation and dataset related to the paper [In
     <td>86.03</td>
   </tr>
 </table>
+
+- Refer to the paper for further information on model architectures, and datasets used for evaluation.
 
 ## Teeth Numbering 
 ![Teeth Numbering](./imgs/det_res.png)
