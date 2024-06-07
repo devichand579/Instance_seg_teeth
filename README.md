@@ -202,9 +202,9 @@ This repository contains the implementation and dataset related to the paper [In
   </tr>
 </table>
 
-- Refer to the paper for further information on model architectures, and datasets used for evaluation.
+- Refer to the paper for further information on model architectures and datasets used for evaluation.
 
-## Teeth Numbering 
+## Teeth Numbering Heatmaps
 ![Teeth Numbering](./imgs/det_res.png)
 
 ## Segmentation Masks
@@ -212,12 +212,14 @@ This repository contains the implementation and dataset related to the paper [In
 
 
 
-## Files
+## Code Structure 
 ```bash
 
-final.v - Contains the final implementation of all modules coresponding to the processor.
-
-finaltb.v - Contains the test bench for testing the implementation of the processor
-
-main.xdc - file containing the configuration to simulate the processor on a nexys4 FPGA,
+2ddaatagen.ipynb                   => Notebook for generating labels
+yolov8_train.ipynb                 => Notebook for training YOLOv8
+yolo_test.ipynb                    => Notebook for testing YOLOv8
+unet_training.ipynb                => Notebook for training U-Net
+unet+cv.ipynb                      => Notebook for training U-Net with cross validation
+yolov8+unet_training.ipynb         => Notebook for training BB-UNet
+yolov8+unet+cv.ipynb               => Notebook for training BB-UNet with cross validation
 ```
