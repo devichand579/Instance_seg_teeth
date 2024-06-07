@@ -119,32 +119,32 @@ This repository contains the implementation and dataset related to the paper [In
     <th>AP50</th>
   </tr>
   <tr>
-    <td>Mask R-CNN[20]</td>
+    <td>Mask R-CNN</td>
     <td>70.5</td>
     <td>97.2</td>
   </tr>
   <tr>
-    <td>Mask R-CNN + FCN[21]</td>
+    <td>Mask R-CNN + FCN</td>
     <td>74.1</td>
     <td>92.8</td>
   </tr>
   <tr>
-    <td>Mask R-CNN + pointRend[21]</td>
+    <td>Mask R-CNN + pointRend</td>
     <td>75.3</td>
     <td>94.4</td>
   </tr>
   <tr>
-    <td>PANet[20]</td>
+    <td>PANet</td>
     <td>74.0</td>
     <td>99.7</td>
   </tr>
   <tr>
-    <td>HTC[20]</td>
+    <td>HTC</td>
     <td>71.1</td>
     <td>97.3</td>
   </tr>
   <tr>
-    <td>ResNeSt[20]</td>
+    <td>ResNeSt</td>
     <td>72.1</td>
     <td>96.8</td>
   </tr>
@@ -173,14 +173,14 @@ This repository contains the implementation and dataset related to the paper [In
     <td>64.98</td>
   </tr>
   <tr>
-    <td>Mask R-CNN [33]</td>
+    <td>Mask R-CNN </td>
     <td>89.56</td>
     <td>89.45</td>
     <td>88.70</td>
     <td>87.55</td>
   </tr>
   <tr>
-    <td>U-Net + Mask R-CNN [33]</td>
+    <td>U-Net + Mask R-CNN </td>
     <td>91.55</td>
     <td>91.00</td>
     <td>90.00</td>
