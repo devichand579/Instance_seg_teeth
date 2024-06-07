@@ -5,7 +5,7 @@ This repository contains the implementation and dataset related to the paper [In
 
 ## Dataset
 
-- We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays.
+- We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays. The Distribution of Categories in the dataset are metnioned in the table below.
 
 
 <table style="margin-left:auto;margin-right:auto;">
@@ -110,7 +110,7 @@ This repository contains the implementation and dataset related to the paper [In
 
 ## Results
 
-Here are the two tables in HTML format:
+- Teeth Numbering Results 
 
 <table>
   <tr>
@@ -154,6 +154,8 @@ Here are the two tables in HTML format:
     <td>94.6</td>
   </tr>
 </table>
+
+- Instance Segmentation Results
 
 <table>
   <tr>
