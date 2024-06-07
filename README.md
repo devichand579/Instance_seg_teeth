@@ -223,3 +223,16 @@ unet+cv.ipynb                      => Notebook for training U-Net with cross val
 yolov8+unet_training.ipynb         => Notebook for training BB-UNet
 yolov8+unet+cv.ipynb               => Notebook for training BB-UNet with cross validation
 ```
+
+## Cite Us
+Cite the paper if you find our work useful.
+```bash
+@misc{budagam2024instance,
+      title={Instance Segmentation and Teeth Classification in Panoramic X-rays}, 
+      author={Devichand Budagam and Ayush Kumar and Sayan Ghosh and Anuj Shrivastav and Azamat Zhanatuly Imanbayev and Iskander Rafailovich Akhmetov and Dmitrii Kaplun and Sergey Antonov and Artem Rychenkov and Gleb Cyganov and Aleksandr Sinitca},
+      year={2024},
+      eprint={2406.03747},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
