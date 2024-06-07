@@ -8,101 +8,101 @@ This repository contains the implementation and dataset related to the paper [In
 - We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays.
 
 
-<table>
+<table style="margin-left:auto;margin-right:auto;">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>32 Teeth</th>
-      <th>Restoration</th>
-      <th>Dental Appliance</th>
-      <th>Images</th>
-      <th>Used Images</th>
+      <th style="text-align:center;">Category</th>
+      <th style="text-align:center;">32 Teeth</th>
+      <th style="text-align:center;">Restoration</th>
+      <th style="text-align:center;">Dental Appliance</th>
+      <th style="text-align:center;">Images</th>
+      <th style="text-align:center;">Used Images</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>✓</td>
-      <td>✓</td>
-      <td>✓</td>
-      <td>73</td>
-      <td>24</td>
+      <td style="text-align:center;">1</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">73</td>
+      <td style="text-align:center;">24</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>✓</td>
-      <td>✓</td>
-      <td></td>
-      <td>220</td>
-      <td>72</td>
+      <td style="text-align:center;">2</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">220</td>
+      <td style="text-align:center;">72</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>✓</td>
-      <td></td>
-      <td></td>
-      <td>45</td>
-      <td>15</td>
+      <td style="text-align:center;">3</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">45</td>
+      <td style="text-align:center;">15</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>✓</td>
-      <td></td>
-      <td></td>
-      <td>140</td>
-      <td>32</td>
+      <td style="text-align:center;">4</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">140</td>
+      <td style="text-align:center;">32</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td colspan="3">Images containing dental implant</td>
-      <td>120</td>
-      <td>37</td>
+      <td style="text-align:center;">5</td>
+      <td colspan="3" style="text-align:center;">Images containing dental implant</td>
+      <td style="text-align:center;">120</td>
+      <td style="text-align:center;">37</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td colspan="3">Images containing more than 32 teeth</td>
-      <td>170</td>
-      <td>30</td>
+      <td style="text-align:center;">6</td>
+      <td colspan="3" style="text-align:center;">Images containing more than 32 teeth</td>
+      <td style="text-align:center;">170</td>
+      <td style="text-align:center;">30</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td></td>
-      <td>✓</td>
-      <td>✓</td>
-      <td>115</td>
-      <td>33</td>
+      <td style="text-align:center;">7</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">115</td>
+      <td style="text-align:center;">33</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td></td>
-      <td>✓</td>
-      <td></td>
-      <td>457</td>
-      <td>140</td>
+      <td style="text-align:center;">8</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">457</td>
+      <td style="text-align:center;">140</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td></td>
-      <td></td>
-      <td>✓</td>
-      <td>45</td>
-      <td>7</td>
+      <td style="text-align:center;">9</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">✓</td>
+      <td style="text-align:center;">45</td>
+      <td style="text-align:center;">7</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>115</td>
-      <td>35</td>
+      <td style="text-align:center;">10</td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;">115</td>
+      <td style="text-align:center;">35</td>
     </tr>
     <tr>
-      <td><strong>Total</strong></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><strong>1500</strong></td>
-      <td><strong>425</strong></td>
+      <td style="text-align:center;"><strong>Total</strong></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"></td>
+      <td style="text-align:center;"><strong>1500</strong></td>
+      <td style="text-align:center;"><strong>425</strong></td>
     </tr>
   </tbody>
 </table>
