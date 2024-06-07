@@ -1,6 +1,7 @@
 # Instance Segmentation and Teeth Classification in Panoramic X-rays
 
 This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747), submitted to Expert Systems with Applications Journal.
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instance-segmentation-and-teeth/instance-segmentation-on-ufba-425)](https://paperswithcode.com/sota/instance-segmentation-on-ufba-425?p=instance-segmentation-and-teeth)
 
 
 ## Dataset
