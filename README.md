@@ -4,7 +4,7 @@ This repository contains the implementation and dataset related to the paper [In
 
 
 
-## Dataset [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instance-segmentation-and-teeth/instance-segmentation-on-ufba-425)](https://paperswithcode.com/sota/instance-segmentation-on-ufba-425?p=instance-segmentation-and-teeth)
+## Dataset
 
 - We introduce a set of 425 panoramic X-rays with Human annotated Bounding Boxes and Polygons, the 425 images are a subset of UFBA-UESC Dental Dataset. This dataset can be extensively used for detection and segmentation tasks for Dental Panoramic X-rays. Refer to [Description](./Dataset/Dataset_description.pdf) for understanding the organisation of annotations and panoramic X-rays. The Distribution of Categories in the dataset are metnioned in the table below.
 
