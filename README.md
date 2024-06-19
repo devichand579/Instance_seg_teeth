@@ -227,7 +227,7 @@ yolov8+unet+cv.ipynb               => Notebook for training BB-UNet with cross v
 
 ## Cite Us
 Cite the paper if you find our work useful.
-```bash
+```bibtex
 @misc{budagam2024instance,
       title={Instance Segmentation and Teeth Classification in Panoramic X-rays}, 
       author={Devichand Budagam and Ayush Kumar and Sayan Ghosh and Anuj Shrivastav and Azamat Zhanatuly Imanbayev and Iskander Rafailovich Akhmetov and Dmitrii Kaplun and Sergey Antonov and Artem Rychenkov and Gleb Cyganov and Aleksandr Sinitca},
