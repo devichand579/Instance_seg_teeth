@@ -2,7 +2,7 @@
 
 This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747), submitted to Expert Systems with Applications Journal.
 
-
+- 🔥 UFBA-425 Dataset featured in Roboflow - 100 Benchmark for the year of 2025. Find it [here](https://universe.roboflow.com/rf100-vl-fsod/ufba-425-asgxh-fsod-djrs)
 
 ## Dataset
 
