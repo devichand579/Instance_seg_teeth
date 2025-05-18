@@ -2,7 +2,7 @@
 
 This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747), submitted to Expert Systems with Applications Journal.
 
-- 🔥 UFBA-425 Dataset featured in Roboflow100-VL Benchmark for the year of 2025 and referred UFBA-425 as one of the hardest datasets for vision tasks. Find it [here](https://universe.roboflow.com/rf100-vl-fsod/ufba-425-asgxh-fsod-djrs). [paper](https://media.roboflow.com/rf100vl/rf100vl.pdf)
+- 🔥 UFBA-425 Dataset featured in Roboflow100-VL Benchmark for the year of 2025 and referred UFBA-425 as one of the hardest datasets for vision tasks. Find the dataset [here](https://universe.roboflow.com/rf100-vl-fsod/ufba-425-asgxh-fsod-djrs) and the [paper](https://media.roboflow.com/rf100vl/rf100vl.pdf).
 
 ## Dataset
 
