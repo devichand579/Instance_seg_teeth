@@ -1,6 +1,6 @@
 # Instance Segmentation and Teeth Classification in Panoramic X-rays
 
-This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747), submitted to Expert Systems with Applications Journal.
+This repository contains the implementation and dataset related to the paper [Instance Segmentation and Teeth Classification in Panoramic X-rays](https://arxiv.org/abs/2406.03747).
 
 - 🔥 UFBA-425 Dataset featured in Roboflow100-VL Benchmark for the year of 2025 and referred UFBA-425 as one of the hardest datasets for vision tasks. Find the dataset [here](https://universe.roboflow.com/rf100-vl-fsod/ufba-425-asgxh-fsod-djrs) and the [paper](https://media.roboflow.com/rf100vl/rf100vl.pdf).
 
@@ -125,16 +125,6 @@ This repository contains the implementation and dataset related to the paper [In
     <td>97.2</td>
   </tr>
   <tr>
-    <td>Mask R-CNN + FCN</td>
-    <td>74.1</td>
-    <td>92.8</td>
-  </tr>
-  <tr>
-    <td>Mask R-CNN + pointRend</td>
-    <td>75.3</td>
-    <td>94.4</td>
-  </tr>
-  <tr>
     <td>PANet</td>
     <td>74.0</td>
     <td>99.7</td>
@@ -151,7 +141,7 @@ This repository contains the implementation and dataset related to the paper [In
   </tr>
   <tr>
     <td>YOLOv8</td>
-    <td>72.9</td>
+    <td>74.9</td>
     <td>94.6</td>
   </tr>
 </table>
@@ -174,32 +164,25 @@ This repository contains the implementation and dataset related to the paper [In
     <td>64.98</td>
   </tr>
   <tr>
-    <td>Mask R-CNN </td>
-    <td>89.56</td>
-    <td>89.45</td>
-    <td>88.70</td>
-    <td>87.55</td>
+    <td>YOLOv8-seg </td>
+    <td>82.78</td>
+    <td>81.91</td>
+    <td>81.89</td>
+    <td>81.42</td>
   </tr>
   <tr>
-    <td>U-Net + Mask R-CNN </td>
-    <td>91.55</td>
-    <td>91.00</td>
-    <td>90.00</td>
-    <td>88.58</td>
+    <td>SAM-2 </td>
+    <td>87.12</td>
+    <td>86.21</td>
+    <td>86.19</td>
+    <td>85.69</td>
   </tr>
   <tr>
-    <td>BB-UNet + YOLOv8 ( Test Dataset 1)</td>
-    <td>85.81</td>
-    <td>84.91</td>
-    <td>84.89</td>
-    <td>84.40</td>
-  </tr>
-  <tr>
-    <td>BB-UNet + YOLOv8 ( Test Dataset 2)</td>
-    <td>85.71</td>
-    <td>86.64</td>
-    <td>86.22</td>
-    <td>86.03</td>
+    <td>OralBBNet</td>
+    <td>89.34</td>
+    <td>88.40</td>
+    <td>88.38</td>
+    <td>87.87</td>
   </tr>
 </table>
 
