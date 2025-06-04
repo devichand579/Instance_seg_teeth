@@ -211,12 +211,13 @@ yolov8+unet+cv.ipynb               => Notebook for training BB-UNet with cross v
 ## Cite Us
 Cite the paper if you find our work useful.
 ```bibtex
-@misc{budagam2024instance,
-      title={Instance Segmentation and Teeth Classification in Panoramic X-rays}, 
-      author={Devichand Budagam and Ayush Kumar and Sayan Ghosh and Anuj Shrivastav and Azamat Zhanatuly Imanbayev and Iskander Rafailovich Akhmetov and Dmitrii Kaplun and Sergey Antonov and Artem Rychenkov and Gleb Cyganov and Aleksandr Sinitca},
-      year={2024},
+@misc{budagam2025oralbbnetspatiallyguideddental,
+      title={OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors}, 
+      author={Devichand Budagam and Azamat Zhanatuly Imanbayev and Iskander Rafailovich Akhmetov and Aleksandr Sinitca and Sergey Antonov and Dmitrii Kaplun},
+      year={2025},
       eprint={2406.03747},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.03747}, 
 }
 ```
