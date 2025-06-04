@@ -204,8 +204,8 @@ yolov8_train.ipynb                 => Notebook for training YOLOv8
 yolo_test.ipynb                    => Notebook for testing YOLOv8
 unet_training.ipynb                => Notebook for training U-Net
 unet+cv.ipynb                      => Notebook for training U-Net with cross validation
-yolov8+unet_training.ipynb         => Notebook for training BB-UNet
-yolov8+unet+cv.ipynb               => Notebook for training BB-UNet with cross validation
+yolov8+unet_training.ipynb         => Notebook for training OralBBNet
+yolov8+unet+cv.ipynb               => Notebook for training OralBBNet with cross validation
 ```
 
 ## Cite Us
