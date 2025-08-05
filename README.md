@@ -1,6 +1,8 @@
 # OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors
 
-This repository contains the implementation and dataset related to the paper [OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors](https://arxiv.org/abs/2406.03747).
+This repository contains the implementation related to the paper [OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors](https://arxiv.org/abs/2406.03747).
+
+- UFBA-425 Dataset is avaiable at [FigShare](https://figshare.com/articles/dataset/UFBA-425/29827475)
 
 - 🔥 UFBA-425 Dataset featured in Roboflow100-VL Benchmark for the year of 2025 and referred UFBA-425 as one of the hardest datasets for vision tasks. Find the dataset [here](https://universe.roboflow.com/rf100-vl-fsod/ufba-425-asgxh-fsod-djrs) and the [paper](https://media.roboflow.com/rf100vl/rf100vl.pdf).
 
