@@ -1,6 +1,6 @@
 # Repository for UFBA-425 and OralBBNet
 
-This repository contains the implementation related to the paper [OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors](https://arxiv.org/abs/2406.03747).
+This repository contains the implementation related to the pipelines of [UFBA-425](https://figshare.com/articles/dataset/UFBA-425/29827475) dataset amd the paper [OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors](https://arxiv.org/abs/2406.03747).
 
 - UFBA-425 Dataset used in this study are avaiable at [FigShare](https://figshare.com/articles/dataset/UFBA-425/29827475)
 
