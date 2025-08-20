@@ -1,4 +1,4 @@
-# OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors
+# Repository for UFBA-425 and OralBBNet
 
 This repository contains the implementation related to the paper [OralBBNet: Spatially Guided Dental Segmentation of Panoramic X-Rays with Bounding Box Priors](https://arxiv.org/abs/2406.03747).
 
