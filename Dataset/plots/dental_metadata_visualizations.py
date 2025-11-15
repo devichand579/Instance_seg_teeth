@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Comprehensive visualization script for dental metadata analysis.
-Creates statistical and distribution plots across 425 dental X-ray images.
-"""
 
 import pandas as pd
 import numpy as np
