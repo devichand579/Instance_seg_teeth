@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Tooth Position Heatmaps Analysis
-Creates heatmaps showing where each tooth type typically appears in X-ray images.
-"""
 
 import pandas as pd
 import numpy as np
