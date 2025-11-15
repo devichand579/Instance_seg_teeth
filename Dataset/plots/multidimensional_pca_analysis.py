@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Multi-dimensional Analysis with PCA
-Uses Principal Component Analysis to find hidden patterns and reduce dimensionality in dental data.
-"""
+
 
 import pandas as pd
 import numpy as np
