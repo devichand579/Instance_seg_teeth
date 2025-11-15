@@ -222,7 +222,7 @@ def create_correlation_matrices(size_df):
     plt.tight_layout()
     plt.savefig('tooth_size_correlation_matrix.png', dpi=300, bbox_inches='tight')
     plt.close()
-    print("✅ Saved: tooth_size_correlation_matrix.png")
+    print("Saved: tooth_size_correlation_matrix.png")
     
     return correlation_matrix, rrea_dat
 
