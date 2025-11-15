@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Tooth Size Correlation Analysis
-Analyzes how different tooth sizes relate to each other through correlation matrices and relationship plots.
-"""
 
 import pandas as pd
 import numpy as np
